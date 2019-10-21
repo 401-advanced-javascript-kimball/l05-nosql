@@ -1,0 +1,9 @@
+{
+  "source": {
+    "include": ["./models-modular", "./models-singular"]
+  },
+  "opts": {
+    "destination": "./docs/",
+    "recurse": true
+  }
+}
