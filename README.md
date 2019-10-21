@@ -13,4 +13,3 @@
 #### Documentation
 
 * [jsdoc](https://jk-401js-lab05.herokuapp.com/docs)
-
