@@ -12,4 +12,4 @@
 
 #### Documentation
 
-* [jsdoc](https://jk-401js-lab05.herokuapp.com/docs)
+* [jsdoc](https://401-advanced-javascript-kimball.github.io/l05-nosql)
